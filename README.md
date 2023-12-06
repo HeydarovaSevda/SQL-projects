@@ -1,1 +1,1 @@
-# SQL-projects
+I have successfully concluded the development of my "Timetable" database project. Comprehensive details about the database, including its structure and functionalities, are available in my presentation. To facilitate a thorough review, kindly initiate the installation process. Furthermore, I have executed various queries on the database to ensure its functionality and efficiency.
